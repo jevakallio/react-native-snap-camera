@@ -1,6 +1,7 @@
 import React from 'react';
 import {
   Permissions,
+  StyleSheet,
   BarCodeScanner
 } from 'expo';
 
