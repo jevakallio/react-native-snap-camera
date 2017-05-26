@@ -1,7 +1,9 @@
 import React from 'react';
 import {
+  StyleSheet
+} from 'react-native';
+import {
   Permissions,
-  StyleSheet,
   BarCodeScanner
 } from 'expo';
 
