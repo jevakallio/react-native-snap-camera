@@ -1,6 +1,6 @@
 {
   "name": "react-native-snap-camera",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Camera component for React Native For Beginners course",
   "main": "index.js",
   "scripts": {
@@ -16,9 +16,6 @@
     "url": "https://github.com/jevakallio/react-native-snap-camera/issues"
   },
   "homepage": "https://github.com/jevakallio/react-native-snap-camera#readme",
-  "dependencies": {
-    "react-native-snap-drag": "^1.0.0"
-  },
   "peerDependencies": {
     "expo": "*"
   }
