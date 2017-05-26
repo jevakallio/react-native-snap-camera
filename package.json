@@ -1,6 +1,6 @@
 {
   "name": "react-native-snap-camera",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Camera component for React Native For Beginners course",
   "main": "index.js",
   "scripts": {
